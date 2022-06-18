@@ -2,6 +2,9 @@
 
 **Here are the codes for the "Swin Transformer and Deep Convolutional Neural Networks for Coastal Wetland Classification using Sentinel-1, Sentinel-2, and LiDAR Data" paper.
 
+![Model](https://user-images.githubusercontent.com/22929034/174426194-ce4acb69-635d-41d3-8c37-ad85bed46645.png)
+![Model2](https://user-images.githubusercontent.com/22929034/174426196-dfeb1ef0-f6a6-410b-be1d-4b4c00306821.png)
+
 
 There are three branches in the proposed multi-model deep CNN network:
 1. A modified version of VGG-16 for Sentinel-2 data
